@@ -14,5 +14,9 @@
     "next": "13.4.10",
     "react": "18.2.0",
     "react-dom": "18.2.0"
-  }
+  },
+  "description": "ให้นักศึกษาสร้างหน้าเว็บ frontend ที่แสดงหน้า Mockup (จำลอง) ของ Todo List App โดยใช้ความรู้เรื่อง React และการแบ่ง Component แบบพื้นฐาน",
+  "main": "next.config.js",
+  "author": "",
+  "license": "ISC"
 }
